@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Harshit
-- 👀 I’m interested in cloud fundamentals
-- 🌱 I’m currently learning data tech stack
-- 💞️ I’m looking to collaborate on data
-- 📫 How to reach me harshitchawla14@gmail.com
+- 👋 Hi, I’m Harshit Chawla
+- 🌱 I’m currently learning data engineeer technology stack
+- 💞️ I’m looking to collaborate on Data & Analytics
+- 📫 How to reach me on  harshitchawla14@gmail.com
 
 <!---
 pro-harshit11/pro-harshit11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
